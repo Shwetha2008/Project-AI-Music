@@ -1,0 +1,28 @@
+body
+{
+    background-size: cover;
+}
+.heading
+{
+    background: linear-gradient(orange 0%, rgb(255, 98, 0) 100%);
+    width: 100%;
+    box-shadow: 3px 3px 15px grey;
+    margin: 0px;
+    color: aliceblue;
+}
+.note
+{
+    color: black;
+    font-size: 18px;
+}
+#update_song_name
+{
+    box-shadow: 2px 5px 15px grey;
+}
+canvas
+{
+    background-color: black;
+    border: 5px solid lightcyan;
+    border-radius: 25px;
+    box-shadow: 2px 5px 15px grey;
+}
